@@ -53,7 +53,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>Local Biomass Opportunities</h1>
-        <p>Ensemble, développons pour tous une économie locale et durable à partir d’une biomasse écologique</p>
+        <p>Together, from an ecological biomass, let us develop a local and sustainable economy for all.</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
       </div>
     </div>
@@ -61,22 +61,22 @@
     <div class="container">
       <!-- Example row of columns -->
       <div id="LBO" class="row">
-        <h1>Société LBO</h1>
-        <p>Local Biomass Opportunities, dit L.B.O est une société française spécialisée dans l’identification et le développement maitrisé de projets novateurs à forte valeur ajoutée du domaine des énergies renouvelables.</p><p>Coordonnant un ensemble de partenaires, L.B.O  dessine et harmonise la mise en place de nouvelles filières de production/distribution de produits énergétiques efficients, respectueux de l’Environnement (carburant & électricité). L.B.O, conscient de sa responsabilité sociétale, propose ainsi des solutions durables et pérennes, destinées à satisfaire des besoins énergétiques locaux de populations en croissance.</p>
+        <h1>LBO Company</h1>
+        <p>Local Biomass Opportunities also known as L.B.O; is a French company specialized in identifying and mastering the development of innovative projects with high added value in the field of renewable energy.</p><p>Coordinating a range of partners, L.B.O draws and harmonises the implementation of new fields of production/distribution of energy efficient and eco-friendly products, eco-environment (fuel and electricity). Consequently, L.B.O, conscious of its social responsibility, offers durable and sustainable solutions designed to meet the local energy needs of growing populations.</p>
       </div>
 
       <hr>
 
       <div id="ECB" class="row">
-        <h1>Projet ECB</h1>
-        <p>Le projet ECB de LBO a pour objectif la mise en œuvre et en opération d’une unité démonstrative des possibilités de production d’éthanol cellulosique en Bretagne, grand producteur de biomasses.</p><p>L’éthanol cellulosique est un alcool à vocation industrielle (agro-carburant) produit à partir de ressources non alimentaires. Son rendement énergétique et son efficience (coût de production/pouvoir énergétique) le positionne en sérieux concurrent d’autres produits énergétiques issus de transformations agricoles.</p><p>L’objectif principal de ce projet ECB est de démontrer la faisabilité technique et économique de produire, à partir de ressources locales, de l’éthanol destiné à des usages locaux, induisant des économies d’énergie et d’argent.</p>
+        <h1>ECB Project</h1>
+        <p>L.B.O’s ECB Project objective is to implement and operate a unit demonstrating the possibilities of production of cellulosic ethanol in Brittany, largest biomass producer.</p><p>Cellulosic ethanol is an alcohol for industrial use (agro-fuel) produced from non-food resources. Its energy efficiency and effectiveness (cost of production/energy power) positions’ it as a serious competitor of other energy products from agricultural transformations.</p><p>The main objective of this ECB Project is to demonstrate the technical and economic feasibility of producing, from local resources, ethanol intended for local use, resulting in energy and money savings.</p>
       </div>
 
       <hr>
 
       <div id="MGO" class="row">
-        <h1>Projet MGO - Sénégal</h1>
-        <p>Notre solution intégrée est un outil de développement économique et social à moyen terme adapté à l’échelle locorégionale.</p><p>Notre objectif est la Production - distribution d’éthanol 95.6% et d’électricité en circuits courts au plus près de la consommation locale (moteurs de groupes électrogène prioritairement, industries, véhicules ultérieurement).</p><p>Via le développement de la production agricole écologique d’une biomasse lignocellulosique reconnue, le Miscanthus qui permet une diversification de l’activité paysanne, création de valeur et de rémunération complémentaire aux productions agricoles traditionnelles.</p><p>Transformation de la biomasse en bioéthanol pur à 95,6% dans une micro-bio raffinerie, système actuellement exploité sur d’autres continents.</p>
+        <h1>MGO Project - Senegal</h1>
+        <p>Our integrated solution is a tool for social and economic development in the medium term appropriate to the local/regional scale.</p><p>Our goal is the production - distribution of 95.6% ethanol and electricity short circuits closer to local consumption (Primarily power unit engines, industries and later vehicles).</p><p>Through the development of ecological agricultural production of recognized lignocellulosic biomass, the Miscanthus which allows a diversification of farming activity, creates value and additional compensations to traditional agricultural productions.</p><p>We transform the biomass into 95.6% pure bioethanol in a micro-bio refinery, a system currently used on other continents.</p>
       </div>
 
       <hr>
@@ -104,7 +104,7 @@
 
       <footer>
         <p>Local Biomass Opportunites (l.b.o) SAS</p>
-        <p>Siège social : 2 rue Robert d’Arbrissel – Rennes</p>
+        <p>Head Office : 2 rue Robert d’Arbrissel – Rennes - FRANCE</p>
       </footer>
     </div> <!-- /container -->
 

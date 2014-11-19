@@ -8,3 +8,15 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+footer {
+  float: right;
+}
+
+.flags a img {
+  float: right;
+  height: 50px;
+  width: 67px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}

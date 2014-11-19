@@ -12,3 +12,10 @@ body {
 footer {
   float: right;
 }
+
+.flags a img {
+  float: right;
+  height: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}

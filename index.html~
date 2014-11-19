@@ -42,9 +42,9 @@
             <li><a href="#MGO">MGO</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
-          <div class="flags">
-            <a href="index_en.html"><img src="flags/en.svg"/></a>
-          </div>
+        </div>
+        <div class="flags">
+          <a href="index_en.html"><img src="flags/en.svg"/></a>
         </div>
       </div>
     </div>

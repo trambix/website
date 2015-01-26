@@ -1,5 +1,6 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
+  font-family: Calibri;
   padding-top: 50px;
   padding-bottom: 20px;
 }
@@ -19,3 +20,8 @@ footer {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+/*
+#MGO {
+    background-image: url(../img/MGO/103.jpg);
+}
+*/
